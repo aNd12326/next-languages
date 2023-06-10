@@ -1,0 +1,10 @@
+{
+  "Index": {
+    "title": "Hola Mundo!!",
+    "subtitle": "Esto es un subtitulo",
+    "alertMessage": "alerta de mensaje"
+  },
+  "About": {
+    "title about": "este es el titulo de pagina de SOBRE NOSOTROS"
+  }
+}
